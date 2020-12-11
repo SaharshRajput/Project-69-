@@ -1,0 +1,51 @@
+body
+{
+    text-align: center;
+}
+#myNavbar
+{
+    display: inline;
+}
+.row ::after
+{
+    display: table;
+    content: "";
+    clear: both;
+}
+#campus_life
+{
+    text-align: center;
+}
+.travelmain_Div
+{
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    border: 1px solid #c7c7c7;
+}
+travelmain_Div img
+{
+    width: 100%;
+    height: 300px;
+}
+#achievmentsID
+{
+    padding-bottom: 10px;
+}
+.av_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.av_head i
+{
+    float: right;
+}
+.award1_text span
+{
+    color: #ff7700;
+}
